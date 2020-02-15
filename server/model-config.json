@@ -16,5 +16,9 @@
   "subscriber": {
     "dataSource": "mongodb",
     "public": true
+  },
+  "videos": {
+    "dataSource": "mongodb",
+    "public": true
   }
 }
