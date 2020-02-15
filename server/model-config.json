@@ -20,5 +20,9 @@
   "videos": {
     "dataSource": "mongodb",
     "public": true
+  },
+  "tutors": {
+    "dataSource": "mongodb",
+    "public": true
   }
 }
