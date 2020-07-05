@@ -2,6 +2,17 @@
   "mongodb": {
     "host": "",
     "port": 0,
+    "url": "mongodb://0.0.0.0:27017",
+    "database": "",
+    "password": "",
+    "name": "",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  },
+  "mongoatlas": {
+    "host": "",
+    "port": 0,
     "url": "mongodb://admin:admin@cluster0-shard-00-00-vz55a.mongodb.net:27017,cluster0-shard-00-01-vz55a.mongodb.net:27017,cluster0-shard-00-02-vz55a.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority",
     "database": "",
     "password": "",
